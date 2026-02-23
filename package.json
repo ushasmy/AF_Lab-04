@@ -1,0 +1,20 @@
+{
+  "name": "af_lab-04",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ushasmy/AF_Lab-04#readme",
+  "bugs": {
+    "url": "https://github.com/ushasmy/AF_Lab-04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushasmy/AF_Lab-04.git"
+  },
+  "license": "ISC",
+  "author": "IT23190870 - Ummu Salma M. H.",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
